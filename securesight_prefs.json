@@ -1,0 +1,20 @@
+{
+  "snapshot_dir": "c:\\Users\\sambh\\OneDrive\\Desktop\\SecureSight_AI_Desktop\\SecureSight_AI_Desktop_Application\\snapshots",
+  "auto_snapshot_on_crime": true,
+  "grid_max_cols": 3,
+  "record_codec": "mp4v",
+  "alert_to_name": "Shivakumar R Bhandari",
+  "alert_to_num": "whatsapp:+918217721313",
+  "twilio_sid": "AC7a44f4dc7e0a0c60f6ab78a46a4dd905",
+  "twilio_token": "e66699233552c16c87749229035f7313",
+  "twilio_from_num": "whatsapp:+14155238886",
+  "user_name": "Shivakumar R Bhandari",
+  "user_mobile": "+918217721313",
+  "cameras": {
+    "1": "C:\\Users\\sambh\\OneDrive\\Desktop\\SecureSight_AI_Desktop\\SecureSight_AI_Desktop_Application\\Testing Data\\Crime\\backdoor.mp4",
+    "2": "C:\\Users\\sambh\\OneDrive\\Desktop\\SecureSight_AI_Desktop\\SecureSight_AI_Desktop_Application\\Testing Data\\Crime\\poolside.mp4",
+    "3": "C:\\Users\\sambh\\OneDrive\\Desktop\\SecureSight_AI_Desktop_Application\\Testing Data\\Crime\\backdoor.mp4",
+    "5": "C:\\Users\\sambh\\OneDrive\\Desktop\\SecureSight_AI_Desktop_Application\\Testing Data\\Crime\\poolside.mp4",
+    "7": "C:\\Users\\sambh\\OneDrive\\Desktop\\SecureSight_AI_Desktop_Application\\Testing Data\\Normal\\frontdoor.mp4"
+  }
+}
